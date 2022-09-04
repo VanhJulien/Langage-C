@@ -1,2 +1,2 @@
 # Langage-C
-Differents exercices en langage C
+Differents exercices réalisés au cours de ma formation en langage C exécutables via n'importe que IDE compatible
